@@ -24,8 +24,8 @@ Key Features:
 - CRUD operations for managing user data
 - Responsive design for an optimized user experience across devices
 
-- Acknowledgements
-I would like to express my gratitude to Polytechnic University of Leiria (https://www.ipleiria.pt) for providing the opportunity to work on this project
+Acknowledgements:
+- I would like to express my gratitude to Polytechnic University of Leiria (https://www.ipleiria.pt) for providing the opportunity to work on this project
 and for the guidance and support of my instructors and peers throughout the development process.
 
 Contributors:
