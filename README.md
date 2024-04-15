@@ -2,7 +2,7 @@
 VCard Web application - Uni project
 
 Overview:
--This project is an academic endeavor aimed at enhancing my proficiency in web development technologies, specifically 
+- This project is an academic endeavor aimed at enhancing my proficiency in web development technologies, specifically 
 focusing on Vue.js, Node.js, and JavaScript. Through hands-on experience and practical implementation, I aim to solidify 
 my understanding of these frameworks and languages while honing my skills as a developer.
 
