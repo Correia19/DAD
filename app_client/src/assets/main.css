@@ -1,0 +1,28 @@
+.p-dropdown {
+  width: 100%;
+}
+
+.p-dropdown-items {
+  padding-left: 0;
+
+}
+
+.p-inputtext {
+  width: 100%;
+}
+
+.p-inputnumber {
+  width: 100%;
+}
+
+.p-button-label {
+  width: 150px;
+}
+
+.p-calendar {
+  width: 100%;
+}
+
+.p-button  {
+  border-radius: 4px;
+}
