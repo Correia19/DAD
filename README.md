@@ -29,7 +29,7 @@ I would like to express my gratitude to Polytechnic University of Leiria (https:
 and for the guidance and support of my instructors and peers throughout the development process.
 
 Contributors:
-- Gonçalo Correia
-- André Costa
-- Miguel Silva
+- Correia19
+- Andre Costa
+- MiguelSilva_Programmer
 - Francisco Castro
