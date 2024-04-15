@@ -28,8 +28,8 @@ Key Features:
 I would like to express my gratitude to Polytechnic University of Leiria (https://www.ipleiria.pt) for providing the opportunity to work on this project
 and for the guidance and support of my instructors and peers throughout the development process.
 
-Contributors
-Gonçalo Correia
-André Costa
-Miguel Silva
-Francisco Castro
+Contributors:
+- Gonçalo Correia
+- André Costa
+- Miguel Silva
+- Francisco Castro
